@@ -1,0 +1,15 @@
+.ui-page {
+  background-color: #FFFFFF !important;
+}
+
+ul {
+    display: inline;
+}
+
+h2 {
+    color: black;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
